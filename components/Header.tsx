@@ -1,11 +1,11 @@
+import Link from 'next/link';
+
 export function Header() {
     return (
         <header className="relative text-green-300 border">
             <div className="container max-w-7xl flex mx-auto flex-col md:flex-row items-center p-5">
                 <div className="mb-4 md:mb-0">
-                    <a href="/" className="text-2xl font-bold">
-                        Portfolio
-                    </a>
+                    <Link href="/" className="text-2xl font-bold">Portfolio</Link>
                 </div>
                 <nav className="md:ml-auto text-base">
                     <ul className="flex">
