@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.titleUnderbar {
+  position: relative;
+}
+
+.titleUnderbar:before {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  display: inline-block;
+  width: 30px;
+  height: 2px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #6EE7B7;
+  border-radius: 2px;
+}
+
+.graph-circle.html {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-image: conic-gradient(#10B981 0deg 300deg,#D1FAE5 300deg 360deg);
+}
+
+.graph-circle.css {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-image: conic-gradient(#10B981 0deg 270deg,#D1FAE5 270deg 360deg);
+}
+
+.graph-circle.js {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-image: conic-gradient(#10B981 0deg 180deg,#D1FAE5 180deg 360deg);
+}
+
+.graph-circle.python {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-image: conic-gradient(#10B981 0deg 90deg,#D1FAE5 90deg 360deg);
+}
+
+.graph-circle p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.graph-circle::before{
+  content: "";
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #FFF;
+}
