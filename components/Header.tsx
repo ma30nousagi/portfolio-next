@@ -14,7 +14,7 @@ export function Header() {
                         <li><a href="/#works" className="font-bold hover:border-b hver:border-gray-900 ml-4">Works</a></li>
                         <li><a href="/#skills" className="font-bold hover:border-b hver:border-gray-900 ml-4">Skills</a></li>
                         <li><a href="/#history" className="font-bold hover:border-b hver:border-gray-900 ml-4">History</a></li>
-                        <li><a href="/" className="font-bold hover:border-b hver:border-gray-900 ml-4">Contact</a></li>
+                        <li><a href="https://socketweb.net/contact/" className="font-bold hover:border-b hver:border-gray-900 ml-4">Contact</a></li>
                     </ul>
                 </nav>
             </div>

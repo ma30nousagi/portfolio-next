@@ -1,7 +1,7 @@
 export function Service() {
     return (
         <section id="service" className="container mb-20">
-            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar">Service</h2>
+            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar roboto">Service</h2>
             <div className="">
               <ul className="md:grid md:grid-cols-3 md:gap-6">
                 <li className="md:mb-0 mb-10">

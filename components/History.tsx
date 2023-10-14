@@ -1,7 +1,7 @@
 export function History() {
     return (
         <section id="history" className="container">
-            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar">History<span className="block text-xs">経歴</span></h2>
+            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar roboto">History</h2>
             <div className="">
               <ul className="">
                 <li className="flex items-center mb-10">

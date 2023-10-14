@@ -1,7 +1,7 @@
 export function Skills() {
     return (
         <section id="skills" className="container mb-20">
-            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar">Skills</h2>
+            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar roboto">Skills</h2>
             <div className="">
               <ul className="grid md:grid-cols-6 md:gap-6 grid-cols-3 gap-4">
                 <li className="md:mb-0 mb-10 mx-auto">

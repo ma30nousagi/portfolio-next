@@ -1,7 +1,7 @@
 export function Works() {
     return (
         <section id="works" className="container mb-20">
-            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar">Works</h2>
+            <h2 className="text-2xl font-bold mb-10 text-center titleUnderbar roboto">Works</h2>
             <div className="">
               <ul className="md:grid md:grid-cols-3 md:gap-6">
                 <li className="mb-6 md:mb-0 shadow"><img src="./img/sample-store.png" alt="works" className=""></img></li>
