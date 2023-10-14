@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export function Footer() {
     return (
         <footer className="bg-green-700 text-white text-center">
@@ -9,7 +11,7 @@ export function Footer() {
                     <li className="ml-4"><a href="/#works">Works</a></li>
                     <li className="ml-4"><a href="/#skills">Skills</a></li>
                     <li className="ml-4"><a href="/#history">History</a></li>
-                    <li className="ml-4"><a href="https://socketweb.net/contact/">Contact</a></li>
+                    <li className="ml-4"><Link href="https://socketweb.net/contact/">Contact</Link></li>
                 </ul>
                 <small className="p-5">&copy;2023</small>
             </div>    
