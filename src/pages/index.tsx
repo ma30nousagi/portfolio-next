@@ -1,19 +1,21 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
+import Head from "next/head"
 import { Header } from "../../components/Header";
 import { Footer } from "../../components/Footer";
 import { Visual } from "../../components/mainVisual";
 import { Service } from "../../components/Service";
 import { Works } from "../../components/Works";
 import { Skills } from "../../components/Skills";
-import { Strength } from "../../components/Strength";
 import { History } from "../../components/History";
 
-// const inter = Inter({ subsets: ['latin'] })
 
 const TopPage = () => {
   return (
     <>
+      <Head>
+        <title>My Portfolio</title>
+        <meta charSet="utf-8" />
+        <meta name="description" content="Next.jsで作成したポートフォリオです。" />
+      </Head>
       <Header />
       <main className="py-10 max-w-7xl mx-auto">
         <div className="container p-5 mx-auto">
