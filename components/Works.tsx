@@ -7,6 +7,15 @@ export function Works() {
             <div className="">
               <ul className="md:grid md:grid-cols-3 md:gap-6">
                 <li className="mb-6 md:mb-0 shadow">
+                  <Image src="/img/bright-img.jpg" alt="Works" width={1450} height={1450} />
+                </li>
+                <li className="mb-6 md:mb-0 shadow">
+                  <Image src="/img/terauchi-img.jpg" alt="Works" width={1450} height={1450} />
+                </li>
+                <li className="mb-6 md:mb-0 shadow">
+                  <Image src="/img/sakuraarts-img.jpg" alt="Works" width={1450} height={1450} />
+                </li>
+                <li className="mb-6 md:mb-0 shadow">
                   <Image src="/img/sample-store.png" alt="Works" width={1450} height={1450} />
                 </li>
                 <li className="mb-6 md:mb-0 shadow">

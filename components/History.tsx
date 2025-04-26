@@ -49,7 +49,15 @@ export function History() {
                     <h3 className="text-lg font-bold">2023年7月〜</h3>
                   </div>
                   <div className="basis-5/6 pl-4 border-l-2 border-green-400">                
-                    <p className="text-sm leading-relaxed">ECとVRを連携したストアの開発に挑戦中。特に力をいれているUnreal Engine・Python・TypeScriptを活用してさらなる顧客体験の向上を目指し邁進中</p>
+                    <p className="text-sm leading-relaxed">ECとVRを連携したストアの開発に力を入れています。</p>
+                  </div>
+                </li>
+                <li className="flex items-center mb-10">
+                  <div className="basis-1/6 w-4 pr-2">
+                    <h3 className="text-lg font-bold">2024年2月〜</h3>
+                  </div>
+                  <div className="basis-5/6 pl-4 border-l-2 border-green-400">                
+                    <p className="text-sm leading-relaxed">フォートナイトのエディターであるUnreal Editor for Fortnite (UEFN)の専用言語「Verse」を使ってマップ開発を行っています。 </p>
                   </div>
                 </li>
               </ul>
