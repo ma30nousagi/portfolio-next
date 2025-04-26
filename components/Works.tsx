@@ -22,7 +22,7 @@ export function Works() {
                   <Image src="/img/abedental-img.jpeg" alt="Works" width={1450} height={1450} />
                 </li>
                 <li className="mb-6 md:mb-0 shadow">
-                  <Image src="/img/aobadenki-image.jpeg" alt="Works" width={1450} height={1450} />
+                  <Image src="/img/2024-aoba-img.jpg" alt="Works" width={1450} height={1450} />
                 </li>
                 <li className="mb-6 md:mb-0 shadow">
                   <Image src="/img/lightbalance-img.jpeg" alt="Works" width={1450} height={1450} />
