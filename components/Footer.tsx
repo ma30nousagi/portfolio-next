@@ -11,7 +11,7 @@ export function Footer() {
                     <li className="ml-4"><Link href="/#history">History</Link></li>
                     <li className="ml-4"><Link href="https://socketweb.net/contact/">Contact</Link></li>
                 </ul>
-                <small className="p-5 md:basis-1/5">&copy;2023 my portfolio</small>
+                <small className="p-5 md:basis-1/5">&copy;2026 my portfolio</small>
             </div>    
         </footer>
     );

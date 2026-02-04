@@ -41,15 +41,7 @@ export function History() {
                     <h3 className="text-lg font-bold">2022年7月〜</h3>
                   </div>
                   <div className="basis-5/6 pl-4 border-l-2 border-green-400">                
-                    <p className="text-sm leading-relaxed">エンジニアとディレクターを兼任。これまでに制作に携わったストアは20件以上</p>
-                  </div>
-                </li>
-                <li className="flex items-center mb-10">
-                  <div className="basis-1/6 w-4 pr-2">
-                    <h3 className="text-lg font-bold">2023年7月〜</h3>
-                  </div>
-                  <div className="basis-5/6 pl-4 border-l-2 border-green-400">                
-                    <p className="text-sm leading-relaxed">ECとVRを連携したストアの開発に力を入れています。</p>
+                    <p className="text-sm leading-relaxed">Shopifyエンジニアとディレクターを兼任。これまでに制作に携わったストアは40件以上</p>
                   </div>
                 </li>
                 <li className="flex items-center mb-10">
@@ -58,6 +50,22 @@ export function History() {
                   </div>
                   <div className="basis-5/6 pl-4 border-l-2 border-green-400">                
                     <p className="text-sm leading-relaxed">フォートナイトのエディターであるUnreal Editor for Fortnite (UEFN)の専用言語「Verse」を使ってマップ開発を行っています。 </p>
+                  </div>
+                </li>
+                <li className="flex items-center mb-10">
+                  <div className="basis-1/6 w-4 pr-2">
+                    <h3 className="text-lg font-bold">2025年7月〜</h3>
+                  </div>
+                  <div className="basis-5/6 pl-4 border-l-2 border-green-400">                
+                    <p className="text-sm leading-relaxed">Robloxのゲーム開発用言語「lua」を使用してゲーム開発にジョインしました</p>
+                  </div>
+                </li>
+                <li className="flex items-center mb-10">
+                  <div className="basis-1/6 w-4 pr-2">
+                    <h3 className="text-lg font-bold">2025年8月〜</h3>
+                  </div>
+                  <div className="basis-5/6 pl-4 border-l-2 border-green-400">                
+                    <p className="text-sm leading-relaxed">生成AIをフル活用してプログラミングスキルを最大化しています</p>
                   </div>
                 </li>
               </ul>
